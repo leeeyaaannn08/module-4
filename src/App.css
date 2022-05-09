@@ -7,6 +7,7 @@ nav {
   justify-content: space-around;
   font-size: 50px;
   font-weight: bold;
+  margin-left: 180px;
 }
 
 .App-logo {
@@ -16,6 +17,8 @@ nav {
 
 .nvunder {
   text-decoration: none;
+  float: right;
+
 }
 
 
