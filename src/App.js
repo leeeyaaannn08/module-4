@@ -13,9 +13,9 @@ function App() {
   return (
     <div className="App">
       <nav>
-        <Link class="nvunder" to='/'>Home</Link>
-        <Link class="nvunder" to='/about'>About</Link>
-        <Link class="nvunder" to='/profile'>Profile</Link>
+        <Link class="nvunder" to='/'>Books</Link>
+        <Link class="nvunder" to='/about'>Goals</Link>
+        <Link class="nvunder" to='/profile'>Settings</Link>
       </nav>
       <Routes>
         <Route path="/" element={<Home />} />
