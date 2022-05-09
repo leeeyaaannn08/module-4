@@ -1,0 +1,8 @@
+.hero-image{
+    background-image: linear-gradient(rgb(184, 108, 108),rgb(194, 123, 123)), url("../../public/images/brownies.jpeg");
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
